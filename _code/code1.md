@@ -8,7 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
-Modeling chromatin dynamics!
+Modeling chromatin dynamics
 ======
 
 A common approach to study chromatin dynamics is to tag it with a fluorescent mark and follow 
