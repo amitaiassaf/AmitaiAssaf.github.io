@@ -2,7 +2,7 @@
 layout: archive
 title: "Random"
 collection: RR
-permalink: /R/
+permalink: /P/
 author_profile: true
 ---
 
