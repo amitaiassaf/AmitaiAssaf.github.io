@@ -27,7 +27,7 @@ The code allows extracting four biophysical parameters from the movement.
 The method can be used to study the changes following DNA damages or breaks and can be applied to single locus trajectories in any species.
 
 
-Work experience
+A population dynamics model for clonal diversity in a germinal center
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -38,6 +38,9 @@ Work experience
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
+  
+Germinal centers (GCs) are micro-domains where B cells mature to develop high affinity antibodies. The GC is seeded by multiple (~50-200) initial B cell clones. Each clone has a unique sequence of the gene coding for the B cell receptor (BCR). This receptor later becomes the antibody in mature B cells capable of binding and neutralizing an antigen. During the germinal center reaction, B cell clones proliferate and create diverse lineages, where the descendent self-induce somatic hyper-mutations. Inside a GC, B cells compete for antigen and T cell help, and the successful ones continue to evolve and become memory and plasma B cells. We studied the competition between B cell clone using a simple population dynamics model of birth/death and mutation. We find that, like all evolutionary processes, diversity loss is inherently stochastic. We study two selection mechanisms, birth-limited, and death limited selection. While death limited selection maintains diversity and allows for slow clonal homogenization as affinity increases, birth limited selection results in a rapid takeover of successful clones.
+  
   
 Skills
 ======
