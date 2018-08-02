@@ -2,7 +2,7 @@
 title: "Modeling chromatin dynamics"
 collection: code
 excerpt: 'This code describes everything.'
----
+
 
 A common approach to study chromatin dynamics is to tag it with a fluorescent mark and follow 
 its motion inside the nucleus with a confocal microscope. The end result is a long trajectory. 
@@ -15,5 +15,6 @@ The code can be applied to any trajectories of tagged DNA loci.
 The code allows extracting four biophysical parameters from the movement. 
 The method can be used to study the changes following DNA damages or breaks and can be applied to single locus 
 trajectories in any species.
+---
 
 [Download code here](https://github.com/amitaiassaf/SPT_analysis)
