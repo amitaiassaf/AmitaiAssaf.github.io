@@ -16,4 +16,4 @@ The code allows extracting four biophysical parameters from the movement.
 The method can be used to study the changes following DNA damages or breaks and can be applied to single locus 
 trajectories in any species.
 
-[Download paper here](https://github.com/amitaiassaf/SPT_analysis)
+[Download code here](https://github.com/amitaiassaf/SPT_analysis)
