@@ -25,6 +25,7 @@ The code can be applied to any trajectories of tagged DNA loci.
 The code allows extracting four biophysical parameters from the movement. 
 The method can be used to study the changes following DNA damages or breaks and can be applied to single locus trajectories in any species.
 
+[Download paper here](https://github.com/amitaiassaf/SPT_analysis)
 
 A population dynamics model for clonal diversity in a germinal center
 ======
