@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Code"
+title: "Projects"
 collection: code
 permalink: /code/
 author_profile: true
