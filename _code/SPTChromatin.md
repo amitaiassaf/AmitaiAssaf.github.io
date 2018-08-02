@@ -1,7 +1,6 @@
 ---
 title: "Modeling chromatin dynamics"
 collection: code
-permalink: /code/SPTChromatin
 excerpt: 'This code describes.'
 ---
 
