@@ -20,7 +20,7 @@ method to estimate four parameters characterizing chromatin dynamics from Single
 We provide here our Matlab code to study the time-lapse imaging of single loci by fluorescence microscopy. 
 The code can be applied to any trajectories of tagged DNA loci. 
 The code allows extracting four biophysical parameters from the movement. 
-The method can be used to study the changes following DNA damages or breaks and can be applied to single locus trajectories in any species.
+The method can be used to study the changes following DNA damages or breaks and can be applied to single locus trajectories in any species. 
 
 [Download code here](https://github.com/amitaiassaf/SPT_analysis)
 
