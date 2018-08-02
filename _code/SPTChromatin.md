@@ -1,7 +1,7 @@
 ---
 title: "Modeling chromatin dynamics"
 collection: code
-excerpt: 'This code describes.'
+excerpt: 'This code describes everything.'
 ---
 
 A common approach to study chromatin dynamics is to tag it with a fluorescent mark and follow 
