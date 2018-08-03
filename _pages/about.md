@@ -13,9 +13,3 @@ My name is Assaf Amitai and I am currently a post-doctoral researcher at Massach
 
 
 ![](/images/nuclear_topics3.png)
-
-number 1<br/><img src='/files/nuclear_topics3.png'>
-
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
-
