@@ -12,6 +12,8 @@ My name is Assaf Amitai and I am currently a post-doctoral researcher at Massach
 
 
 
+![](/images/nuclear_topics3.png)
+
 Short description of portfolio item number 1<br/><img src='/files/nuclear_topics3.png'>
 
 
