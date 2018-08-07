@@ -24,6 +24,7 @@ The method can be used to study the changes following DNA damages or breaks and 
 
 [Download code here](https://github.com/amitaiassaf/SPT_analysis)
 
+[**A talk I gave about this work at the Isaac Newton Institute in Cambridge in June 2016**](http://www.newton.ac.uk/seminar/20160624110011451)
 
 A population dynamics model for clonal diversity in a germinal center
 ======
