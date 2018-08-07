@@ -50,11 +50,11 @@ The DNA is subject to Brownian motion resulting from the interactions with the s
 
 I have used simple models to study encounter between chromatin sites in different scenarios. We first addressed the question of the encounter between two monomers part of the long chain in bulk (DNA looping). We have found for the first time, a complete mathematical formula describing the dependency of the mean encounter time, on the length of the polymer chain and the capture radius, which is the distance at which the sites meet. In a second work, we have looked at the way these rates change when the polymer chain is confined in a close domain representing the nucleus, or a chromosome domain. We found an analytical formula describing the dependency of this rate on the size of the domain. Interestingly, we find that encounter and looping can be very effectively regulated by controlling the domain size.
 
-[Analysis of the mean first looping time of a rod-polymer](http://epubs.siam.org/doi/abs/10.1137/110842624)
+[**Analysis of the mean first looping time of a rod-polymer**](http://epubs.siam.org/doi/abs/10.1137/110842624)
 
-[Computation of the Mean First-Encounter Time Between the Ends of a Polymer Chain](http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.109.108302)
+[**Computation of the Mean First-Encounter Time Between the Ends of a Polymer Chain**](http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.109.108302)
 
-[Diffusing Polymers in Confined Microdomains and Estimation of Chromosome Territory Sizes from Chromosome Capture Data](http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.110.248105)
+[**Diffusing Polymers in Confined Microdomains and Estimation of Chromosome Territory Sizes from Chromosome Capture Data**](http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.110.248105)
 
-[A link to a talk I gave about polymer looping](http://www.birs.ca/events/2015/5-day-workshops/15w5110/videos/watch/201503251043-Amitai.html)
+[**A talk I gave about polymer looping**](http://www.birs.ca/events/2015/5-day-workshops/15w5110/videos/watch/201503251043-Amitai.html)
 
