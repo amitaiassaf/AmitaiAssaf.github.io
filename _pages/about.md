@@ -8,8 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-My name is Assaf Amitai and I am currently a post-doctoral researcher at Massachusetts Institute of Technology working with Arup Chakraborty and Mehran Kardar. My research interest lies in applying mathematical analysis, modeling, simulations and statistical physics to understand various processes in biology. In particular, I am currently working on chromatin dynamics, protein dynamics in the nucleus, and various questions in immunology related to infection and vaccination.
+Biophysicist. I am a research scientist at the Massachusetts Institute of Technology. Interested in answering basic and applied questions pertinent to health and biotechnology. Passionate about applying computational approaches to offer an innovative perspective to disease biology, molecular biology, and unsolved problems in healthcare. 
+I am interested in chromatin dynamics, protein dynamics in the nucleus, and various questions in immunology related to infection and vaccination. 
 
+Over the last few years, I have been working on modeling of the adaptive immune system focusing on antibody responses against viruses and developed a probabilistic model for the development of a universal influenza vaccine using nanoparticles. More recently, I have been modeling how antibody pressure manipulates the evolution of the influenza H1N1 virus and SARS-CoV-2.
 
 
 ![](/images/nuclear_topics5.png)
