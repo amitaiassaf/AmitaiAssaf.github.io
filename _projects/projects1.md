@@ -42,12 +42,12 @@ Affinity maturation drives evolutionary constraints on virus spike density
 
 The spikes on virus surfaces bind receptors on host cells to propagate infection. High spike densities (SDs) can promote infection, but spikes are also targets of antibody-mediated immune responses. Thus, diverse evolutionary pressures can influence virus SDs. HIV’s SD is about two orders of magnitude lower than that of other viruses, a surprising feature of unknown origin. By modeling antibody evolution through affinity maturation, we find that an intermediate SD maximizes the affinity of generated antibodies. We argue that this leads most viruses to evolve high SDs. T helper cells, which are depleted during early HIV infection, play a key role in antibody evolution. We find that T helper cell depletion results in high affinity antibodies when SD is high, but not if SD is low. This special feature of HIV infection may have led to the evolution of a low SD to avoid potent immune responses early in infection. 
 
-B cell Immunodominance and a universal influenza vaccine
+[B cell Immunodominance and a universal influenza vaccine](https://github.com/amitaiassaf/B-cell-Immunodominance-Hierarchies)
 ======
 
-The yearly vaccine against the influenza virus targets a protein on its surface called called hemagglutinin (HA), which helps the virus to bind and enter the host cells. Following vaccination, the immune system generates antibodies that target HA and can neutralize the virus. Most antibodies target the head of the HA protein, which mutates rapidly and often escape those antibodies. The stem of HA contains conserved residues that are the target of broadly neutralizeing antibodies. Eliciting strong antibody responses against the conserved part on the stem would offer universal protection. However, those conserved residues are immunologically recessive and are usually not targeted by the antibodies.
+The yearly vaccine against the influenza virus targets a protein on its surface called hemagglutinin (HA), which helps the virus to bind and enter the host cells. Following vaccination, the immune system generates antibodies that target HA and can neutralize the virus. Most antibodies target the head of the HA protein, which mutates rapidly and often escapes those antibodies. The stem of HA contains conserved residues that are the target of broadly neutralizing antibodies. Eliciting strong antibody responses against the conserved part on the stem would offer universal protection. However, those conserved residues are immunologically recessive and are usually not targeted by the antibodies. Using models of the antibody response against the virus, nanoparticles presenting HA, and experiments in mice we studied the conditions that would allow stem-specific broadly neutralizing antibodies.
 
-https://github.com/amitaiassaf/B-cell-Immunodominance-Hierarchies
+[Learn more](https://github.com/amitaiassaf/B-cell-Immunodominance-Hierarchies)
 
 Enconter events in biology
 ======
