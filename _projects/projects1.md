@@ -51,8 +51,6 @@ The yearly vaccine against the influenza virus targets a protein on its surface 
 
 ![](/images/GraphicalAbstractFlu.jpg)
 
-
-
 Enconter events in biology
 ======
 The DNA is subject to Brownian motion resulting from the interactions with the surrounding water molecules and is constantly moving inside a confined domain, which is determined by the cell or nucleus membrane. In recent years it has been understood that its dynamics and organization have significant consequences on the cellular functions. For example, the encounter between chromosome sites is directly involved in many biological processes, such as gene regulation and DNA repair. One important characteristic of these encounter events is their frequency. Since the interacting sites have to come to a close proximity for the chemical interaction to occur and because the encounter is largely diffusion limited, these events are inherently rare. The exact implications of these encounter events are still mostly unknown, but over the last decade microscopy methods and chromosome capture techniques have been developed for their study.
