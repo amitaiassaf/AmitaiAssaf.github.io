@@ -49,7 +49,7 @@ The yearly vaccine against the influenza virus targets a protein on its surface 
 
 [Learn more](https://github.com/amitaiassaf/B-cell-Immunodominance-Hierarchies)
 
-![](/images/graphical abstract FLU.jpg)
+![](/images/GraphicalAbstractFlu.jpg)
 
 
 
