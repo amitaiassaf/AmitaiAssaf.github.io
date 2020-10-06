@@ -14,4 +14,4 @@ I am interested in chromatin dynamics, protein dynamics in the nucleus, and vari
 Over the last few years, I have been working on modeling of the adaptive immune system focusing on antibody responses against viruses and developed a probabilistic model for the development of a [universal influenza vaccine using nanoparticles](https://github.com/amitaiassaf/B-cell-Immunodominance-Hierarchies). More recently, I have been modeling how antibody pressure manipulates the evolution of the influenza H1N1 virus and SARS-CoV-2.
 
 
-![](/images/nuclear_topics5.png)
+# ![](/images/nuclear_topics5.png)
