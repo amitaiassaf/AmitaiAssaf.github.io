@@ -15,7 +15,7 @@ A common approach to study chromatin dynamics is to tag it with a fluorescent ma
 its motion inside the nucleus with a confocal microscope. The end result is a long trajectory. 
 A chromatin locus performs complicated stochastic trajectory. We have developed a method to analyze such trajectories.
 
-In recent papers published in [**Cell Reports**](https://www.sciencedirect.com/science/article/pii/S2211124717300542?via%3Dihub) and [**Nature Structural and Molecular Biology**](https://www.nature.com/articles/nsmb.3347), we describe a statistical 
+In a papers published in [**Cell Reports**](https://www.sciencedirect.com/science/article/pii/S2211124717300542?via%3Dihub) and [**Nature Structural and Molecular Biology**](https://www.nature.com/articles/nsmb.3347), we describe a statistical 
 method to estimate four parameters characterizing chromatin dynamics from Single Particle Trajectories (SPTs). 
 We provide here our Matlab code to study the time-lapse imaging of single loci by fluorescence microscopy. 
 The code can be applied to any trajectories of tagged DNA loci. 
@@ -25,6 +25,18 @@ The method can be used to study the changes following DNA damages or breaks and 
 [Download code here](https://github.com/amitaiassaf/SPT_analysis)
 
 [**A talk I gave about this work at the Isaac Newton Institute in Cambridge in June 2016**](http://www.newton.ac.uk/seminar/20160624110011451)
+
+
+Modeling protein dynamics and its link to chromatin organization
+======
+
+The organization of the genome is governed by nuclear DNA-binding proteins such as CTCF and cohesin that mediate chromatin looping. Using single-particle tracking of CTCF in live cells and in collaboration with molecular biologists, we discovered that it exhibits highly unusual motion in the nuclear space. Modeling the interaction of CTCF with chromosomes, and analyzing its motion, we could infer the properties of the underline chromatin-bound structures with which CTCF interacts.
+
+Our analysis of CTCF mobility revealed a new type of zones composed of RNA that modify the motion CTCF and are important to maintaining genome organization via chromatin looping. Importantly, those RNA zones decrease the time it takes for the protein to find its target (cognate binding site). Trapping of CTCF in zones increases the efficiency of chromatin loop formation. More generally, it is possible that interaction of other proteins with such RNA zones could be an effective way to control and regulate the local concentration of proteins in the nucleus around specific sites. 
+
+[A theoretical work on protein dynamics & search behavior, and they way it is modulate through the interaction with chromatin](https://www.cell.com/biophysj/comments/S0006-3495(18)30057-2)
+
+[CTCF dynamics and search behavior](https://www.nature.com/articles/s41589-019-0422-3)
 
 A population dynamics model for clonal diversity in a germinal center
 ======
