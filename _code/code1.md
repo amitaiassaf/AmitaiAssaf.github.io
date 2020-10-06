@@ -32,11 +32,13 @@ Modeling protein dynamics and its link to chromatin organization
 
 The organization of the genome is governed by nuclear DNA-binding proteins such as CTCF and cohesin that mediate chromatin looping. Using single-particle tracking of CTCF in live cells and in collaboration with molecular biologists, we discovered that it exhibits highly unusual motion in the nuclear space. Modeling the interaction of CTCF with chromosomes, and analyzing its motion, we could infer the properties of the underline chromatin-bound structures with which CTCF interacts.
 
-Our analysis of CTCF mobility revealed a new type of zones composed of RNA that modify the motion CTCF and are important to maintaining genome organization via chromatin looping. Importantly, those RNA zones decrease the time it takes for the protein to find its target (cognate binding site). Trapping of CTCF in zones increases the efficiency of chromatin loop formation. More generally, it is possible that interaction of other proteins with such RNA zones could be an effective way to control and regulate the local concentration of proteins in the nucleus around specific sites. 
+Our analysis of CTCF mobility revealed a new type of zones composed of RNA that modify the motion CTCF and are important to maintaining genome organization via chromatin looping. Importantly, those RNA zones decrease the time it takes for a protein to find its target (cognate binding site). Trapping of CTCF in zones increases the efficiency of chromatin loop formation. Perhaps the interaction of other proteins with such RNA zones could be an effective way to control and regulate the local concentration of proteins in the nucleus around specific sites.
 
-[**A theoretical work on protein dynamics & search behavior, and they way it is modulate through the interaction with chromatin**](https://www.cell.com/biophysj/comments/S0006-3495(18)30057-2)
+[**A theoretical work on protein dynamics, their search behavior, and the way it is modulated through the interaction with chromatin**](https://www.cell.com/biophysj/comments/S0006-3495(18)30057-2)
 
 [**CTCF dynamics and search behavior**](https://www.nature.com/articles/s41589-019-0422-3)
+
+<img src="/images/ProteinDynamicsProject.png" width="600">
 
 A population dynamics model for clonal diversity in a germinal center
 ======
