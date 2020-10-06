@@ -26,6 +26,7 @@ The method can be used to study the changes following DNA damages or breaks and 
 
 [**A talk I gave about this work at the Isaac Newton Institute in Cambridge in June 2016**](http://www.newton.ac.uk/seminar/20160624110011451)
 
+<img src="/images/PolymerModelsProjects_1.jpg" width="600">
 
 Modeling protein dynamics and its link to chromatin organization
 ======
