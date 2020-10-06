@@ -34,16 +34,16 @@ The organization of the genome is governed by nuclear DNA-binding proteins such 
 
 Our analysis of CTCF mobility revealed a new type of zones composed of RNA that modify the motion CTCF and are important to maintaining genome organization via chromatin looping. Importantly, those RNA zones decrease the time it takes for the protein to find its target (cognate binding site). Trapping of CTCF in zones increases the efficiency of chromatin loop formation. More generally, it is possible that interaction of other proteins with such RNA zones could be an effective way to control and regulate the local concentration of proteins in the nucleus around specific sites. 
 
-[A theoretical work on protein dynamics & search behavior, and they way it is modulate through the interaction with chromatin](https://www.cell.com/biophysj/comments/S0006-3495(18)30057-2)
+[**A theoretical work on protein dynamics & search behavior, and they way it is modulate through the interaction with chromatin**](https://www.cell.com/biophysj/comments/S0006-3495(18)30057-2)
 
-[CTCF dynamics and search behavior](https://www.nature.com/articles/s41589-019-0422-3)
+[**CTCF dynamics and search behavior**](https://www.nature.com/articles/s41589-019-0422-3)
 
 A population dynamics model for clonal diversity in a germinal center
 ======
   
 Germinal centers (GCs) are micro-domains where B cells mature to develop high affinity antibodies. The GC is seeded by multiple (~50-200) initial B cell clones. Each clone has a unique sequence of the gene coding for the B cell receptor (BCR). This receptor later becomes the antibody in mature B cells capable of binding and neutralizing an antigen. During the germinal center reaction, B cell clones proliferate and create diverse lineages, where the descendent self-induce somatic hyper-mutations. Inside a GC, B cells compete for antigen and T cell help, and the successful ones continue to evolve and become memory and plasma B cells. We studied the competition between B cell clone using a simple population dynamics model of birth/death and mutation. We find that, like all evolutionary processes, diversity loss is inherently stochastic. We study two selection mechanisms, birth-limited, and death limited selection. While death limited selection maintains diversity and allows for slow clonal homogenization as affinity increases, birth limited selection results in a rapid takeover of successful clones.
 
-[Download code here](https://github.com/amitaiassaf/Modeling-Germinal-Center-Reaction)
+[**Download code here**](https://github.com/amitaiassaf/Modeling-Germinal-Center-Reaction)
   
 Affinity maturation drives evolutionary constraints on virus spike density
 ======
@@ -55,7 +55,7 @@ In a recent paper we try to explain this riddle. By modeling antibody evolution 
 
 You can find the affinity maturation code for simulation relevant for this paper here:
 
-[Download code here](https://github.com/amitaiassaf/Modeling-Germinal-Center-Reaction)
+[**Download code here**](https://github.com/amitaiassaf/Modeling-Germinal-Center-Reaction)
 
 [B cell Immunodominance and a universal influenza vaccine](https://github.com/amitaiassaf/B-cell-Immunodominance-Hierarchies)
 ======
