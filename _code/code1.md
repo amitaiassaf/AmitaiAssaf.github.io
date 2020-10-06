@@ -57,6 +57,10 @@ You can find the affinity maturation code for simulation relevant for this paper
 
 [**Download code here**](https://github.com/amitaiassaf/Modeling-Germinal-Center-Reaction)
 
+
+<img src="/images/SpikeEvolution.jpg" width="600">
+
+
 [B cell Immunodominance and a universal influenza vaccine](https://github.com/amitaiassaf/B-cell-Immunodominance-Hierarchies)
 ======
 
