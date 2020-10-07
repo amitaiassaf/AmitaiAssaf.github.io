@@ -12,10 +12,10 @@ Modeling chromatin dynamics
 ======
 
 A common approach to study chromatin dynamics is to tag it with a fluorescent mark and follow 
-its motion inside the nucleus with a confocal microscope. The end result is a long trajectory. 
-A chromatin locus performs complicated stochastic trajectory. We have developed a method to analyze such trajectories.
+its motion inside the nucleus with a confocal microscope. The result is a long trajectory. 
+A chromatin locus performs a complicated stochastic trajectory. We have developed a method to analyze such trajectories.
 
-In a papers published in [**Cell Reports**](https://www.sciencedirect.com/science/article/pii/S2211124717300542?via%3Dihub) and [**Nature Structural and Molecular Biology**](https://www.nature.com/articles/nsmb.3347), we describe a statistical 
+In papers published in [**Cell Reports**](https://www.sciencedirect.com/science/article/pii/S2211124717300542?via%3Dihub) and [**Nature Structural and Molecular Biology**](https://www.nature.com/articles/nsmb.3347), we describe a statistical 
 method to estimate four parameters characterizing chromatin dynamics from Single Particle Trajectories (SPTs). 
 We provide here our Matlab code to study the time-lapse imaging of single loci by fluorescence microscopy. 
 The code can be applied to any trajectories of tagged DNA loci. 
@@ -33,7 +33,7 @@ Modeling protein dynamics and its link to chromatin organization
 
 The organization of the genome is governed by nuclear DNA-binding proteins such as CTCF and cohesin that mediate chromatin looping. Using single-particle tracking of CTCF in live cells and in collaboration with molecular biologists, we discovered that it exhibits highly unusual motion in the nuclear space. Modeling the interaction of CTCF with chromosomes, and analyzing its motion, we could infer the properties of the underline chromatin-bound structures with which CTCF interacts.
 
-Our analysis of CTCF mobility revealed a new type of zones composed of RNA that modify the motion CTCF and are important to maintaining genome organization via chromatin looping. Importantly, those RNA zones decrease the time it takes for a protein to find its target (cognate binding site). Trapping of CTCF in zones increases the efficiency of chromatin loop formation. Perhaps the interaction of other proteins with such RNA zones could be an effective way to control and regulate the local concentration of proteins in the nucleus around specific sites.
+Our analysis of CTCF mobility revealed a new type of zones composed of RNA that modify the motion CTCF and are important to maintaining genome organization via chromatin looping. Importantly, those RNA zones decrease the time it takes for a protein to find its target (cognate binding site). Trapping of CTCF in zones increases the efficiency of chromatin loop formation. The interaction of other proteins with such RNA zones could be an effective way to control and regulate the local concentration of proteins in the nucleus around specific sites.
 
 [**A theoretical work on protein dynamics, their search behavior, and the way it is modulated through the interaction with chromatin**](https://www.cell.com/biophysj/comments/S0006-3495(18)30057-2)
 
@@ -54,7 +54,7 @@ Affinity maturation drives evolutionary constraints on virus spike density
 The spikes on virus surfaces bind receptors on host cells to propagate infection. High spike densities (SDs) can promote infection, but spikes are also targets of antibody-mediated immune responses. Thus, diverse evolutionary pressures can influence virus SDs. 
 HIV’s SD is about two orders of magnitude lower than that of other viruses, a surprising feature of unknown origin.
 
-In a recent paper we try to explain this riddle. By modeling antibody evolution through affinity maturation, we find that an intermediate SD maximizes the affinity of generated antibodies. We argue that this leads most viruses to evolve high SDs. T helper cells, which are depleted during early HIV infection, play a key role in antibody evolution. We find that T helper cell depletion results in high affinity antibodies when SD is high, but not if SD is low. This special feature of HIV infection may have led to the evolution of a low SD to avoid potent immune responses early in infection. 
+In a recent paper, we try to explain this riddle. By modeling antibody evolution through affinity maturation, we find that an intermediate SD maximizes the affinity of generated antibodies. We argue that this leads most viruses to evolve high SDs. T helper cells, which are depleted during early HIV infection, play a key role in antibody evolution. We find that T helper cell depletion results in high affinity antibodies when SD is high, but not if SD is low. This special feature of HIV infection may have led to the evolution of a low SD to avoid potent immune responses early in infection. 
 
 You can find the affinity maturation code for simulation relevant for this paper here:
 
@@ -73,11 +73,11 @@ The yearly vaccine against the influenza virus targets a protein on its surface 
 
 <img src="/images/GraphicalAbstractFlu.jpg" width="600">
 
-Enconter events in biology
+Encounter events inside the nucleus
 ======
-The DNA is subject to Brownian motion resulting from the interactions with the surrounding water molecules and is constantly moving inside a confined domain, which is determined by the cell or nucleus membrane. In recent years it has been understood that its dynamics and organization have significant consequences on the cellular functions. For example, the encounter between chromosome sites is directly involved in many biological processes, such as gene regulation and DNA repair. One important characteristic of these encounter events is their frequency. Since the interacting sites have to come to a close proximity for the chemical interaction to occur and because the encounter is largely diffusion limited, these events are inherently rare. The exact implications of these encounter events are still mostly unknown, but over the last decade microscopy methods and chromosome capture techniques have been developed for their study.
+The DNA is subject to Brownian motion resulting from the interactions with the surrounding water molecules and is constantly moving inside a confined domain, which is determined by the cell or nucleus membrane. In recent years it has been understood that its dynamics and organization have significant consequences on the cellular functions. For example, the encounter between chromosome sites is directly involved in many biological processes, such as gene regulation and DNA repair. One important characteristic of these encounter events is their frequency. Since the interacting sites have to come nearby for the chemical interaction to occur and because the encounter is largely diffusion-limited, these events are inherently rare. The exact implications of these encounter events are still mostly unknown, but over the last decade microscopy methods and chromosome capture techniques have been developed for their study.
 
-I have used simple models to study encounter between chromatin sites in different scenarios. We first addressed the question of the encounter between two monomers part of the long chain in bulk (DNA looping). We have found for the first time, a complete mathematical formula describing the dependency of the mean encounter time, on the length of the polymer chain and the capture radius, which is the distance at which the sites meet. In a second work, we have looked at the way these rates change when the polymer chain is confined in a close domain representing the nucleus, or a chromosome domain. We found an analytical formula describing the dependency of this rate on the size of the domain. Interestingly, we find that encounter and looping can be very effectively regulated by controlling the domain size.
+I have used simple models to study the encounter between chromatin sites in different scenarios. We first addressed the question of the encounter between two monomers part of the long chain in bulk (DNA looping). We have found for the first time, a complete mathematical formula describing the dependency of the mean encounter time, on the length of the polymer chain and the capture radius, which is the distance at which the sites meet. In a second work, we have looked at the way these rates change when the polymer chain is confined in a close domain representing the nucleus, or a chromosome domain. We found an analytical formula describing the dependency of this rate on the size of the domain. Interestingly, we find that encounter and looping can be very effectively regulated by controlling the domain size.
 
 [**Analysis of the mean first looping time of a rod-polymer**](http://epubs.siam.org/doi/abs/10.1137/110842624)
 
