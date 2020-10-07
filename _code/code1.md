@@ -8,6 +8,33 @@ author_profile: true
 
 {% include base_path %}
 
+
+[B cell Immunodominance and a universal influenza vaccine](https://github.com/amitaiassaf/B-cell-Immunodominance-Hierarchies)
+======
+
+The yearly vaccine against the influenza virus targets a protein on its surface called hemagglutinin (HA), which helps the virus to bind and enter the host cells. Following vaccination, the immune system generates antibodies that target HA and can neutralize the virus. Most antibodies target the head of the HA protein, which mutates rapidly and often escapes those antibodies. The stem of HA contains conserved residues that are the target of broadly neutralizing antibodies. Eliciting strong antibody responses against the conserved part on the stem would offer universal protection. However, those conserved residues are immunologically recessive and are usually not targeted by the antibodies. Using models of the antibody response against the virus, nanoparticles presenting HA, and experiments in mice we studied the conditions that would allow stem-specific broadly neutralizing antibodies.
+
+[Learn more](https://github.com/amitaiassaf/B-cell-Immunodominance-Hierarchies)
+
+<img src="/images/GraphicalAbstractFlu.jpg" width="600">
+
+Affinity maturation drives evolutionary constraints on virus spike density
+======
+
+The spikes on virus surfaces bind receptors on host cells to propagate infection. High spike densities (SDs) can promote infection, but spikes are also targets of antibody-mediated immune responses. Thus, diverse evolutionary pressures can influence virus SDs. 
+HIV’s SD is about two orders of magnitude lower than that of other viruses, a surprising feature of unknown origin.
+
+In a recent paper, we try to explain this riddle. By modeling antibody evolution through affinity maturation, we find that an intermediate SD maximizes the affinity of generated antibodies. We argue that this leads most viruses to evolve high SDs. T helper cells, which are depleted during early HIV infection, play a key role in antibody evolution. We find that T helper cell depletion results in high affinity antibodies when SD is high, but not if SD is low. This special feature of HIV infection may have led to the evolution of a low SD to avoid potent immune responses early in infection. 
+
+[**The low spike density of HIV**](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006408)
+
+You can find the affinity maturation code for simulation relevant for this paper here:
+
+[**Download code here**](https://github.com/amitaiassaf/Modeling-Germinal-Center-Reaction)
+
+
+<img src="/images/SpikeEvolution.jpg" width="600">
+
 Modeling chromatin dynamics
 ======
 
@@ -53,33 +80,6 @@ Germinal centers (GCs) are micro-domains where B cells mature to develop high af
 
 [**Download code here**](https://github.com/amitaiassaf/Modeling-Germinal-Center-Reaction)
   
-Affinity maturation drives evolutionary constraints on virus spike density
-======
-
-The spikes on virus surfaces bind receptors on host cells to propagate infection. High spike densities (SDs) can promote infection, but spikes are also targets of antibody-mediated immune responses. Thus, diverse evolutionary pressures can influence virus SDs. 
-HIV’s SD is about two orders of magnitude lower than that of other viruses, a surprising feature of unknown origin.
-
-In a recent paper, we try to explain this riddle. By modeling antibody evolution through affinity maturation, we find that an intermediate SD maximizes the affinity of generated antibodies. We argue that this leads most viruses to evolve high SDs. T helper cells, which are depleted during early HIV infection, play a key role in antibody evolution. We find that T helper cell depletion results in high affinity antibodies when SD is high, but not if SD is low. This special feature of HIV infection may have led to the evolution of a low SD to avoid potent immune responses early in infection. 
-
-[**The low spike density of HIV**](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006408)
-
-You can find the affinity maturation code for simulation relevant for this paper here:
-
-[**Download code here**](https://github.com/amitaiassaf/Modeling-Germinal-Center-Reaction)
-
-
-<img src="/images/SpikeEvolution.jpg" width="600">
-
-
-[B cell Immunodominance and a universal influenza vaccine](https://github.com/amitaiassaf/B-cell-Immunodominance-Hierarchies)
-======
-
-The yearly vaccine against the influenza virus targets a protein on its surface called hemagglutinin (HA), which helps the virus to bind and enter the host cells. Following vaccination, the immune system generates antibodies that target HA and can neutralize the virus. Most antibodies target the head of the HA protein, which mutates rapidly and often escapes those antibodies. The stem of HA contains conserved residues that are the target of broadly neutralizing antibodies. Eliciting strong antibody responses against the conserved part on the stem would offer universal protection. However, those conserved residues are immunologically recessive and are usually not targeted by the antibodies. Using models of the antibody response against the virus, nanoparticles presenting HA, and experiments in mice we studied the conditions that would allow stem-specific broadly neutralizing antibodies.
-
-[Learn more](https://github.com/amitaiassaf/B-cell-Immunodominance-Hierarchies)
-
-<img src="/images/GraphicalAbstractFlu.jpg" width="600">
-
 Encounter events inside the nucleus
 ======
 The DNA is subject to Brownian motion resulting from the interactions with the surrounding water molecules and is constantly moving inside a confined domain, which is determined by the cell or nucleus membrane. In recent years it has been understood that its dynamics and organization have significant consequences on the cellular functions. For example, the encounter between chromosome sites is directly involved in many biological processes, such as gene regulation and DNA repair. One important characteristic of these encounter events is their frequency. Since the interacting sites have to come nearby for the chemical interaction to occur and because the encounter is largely diffusion-limited, these events are inherently rare. The exact implications of these encounter events are still mostly unknown, but over the last decade microscopy methods and chromosome capture techniques have been developed for their study.
