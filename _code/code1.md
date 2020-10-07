@@ -11,12 +11,16 @@ author_profile: true
 Modeling chromatin dynamics
 ======
 
-A common approach to study chromatin dynamics is to tag it with a fluorescent mark and follow 
-its motion inside the nucleus with a confocal microscope. The result is a long trajectory. 
-A chromatin locus performs a complicated stochastic trajectory. We have developed a method to analyze such trajectories.
+The chromatin molecule resides in the nucleus of eukaryotes organisms. The principles governing its organization and dynamics are still largely unknown. Chromatin dynamics control the encounter rate between chromatin loci, which is consequential in many biological processes such as DNA repair, differentiation, and transcription.
 
-In papers published in [**Cell Reports**](https://www.sciencedirect.com/science/article/pii/S2211124717300542?via%3Dihub) and [**Nature Structural and Molecular Biology**](https://www.nature.com/articles/nsmb.3347), we describe a statistical 
-method to estimate four parameters characterizing chromatin dynamics from Single Particle Trajectories (SPTs). 
+Chromatin motion can be observed by fluorescently tagging sites and following them with high-speed microscopy to produce high-resolution trajectories. To decipher the principles governing the motion of chromatin, we developed methods combining polymer models and statistical inference to analyze these trajectories. We have shown, that following a double-stranded DNA breaks, chromatin structure and dynamics are modified to facilitate the repair of those breaks. We find that in general, the motion of chromatin is due to an ensemble of interactions of the molecule with its surroundings. Those interactions are being modified around the break during the repair process. As a result, chromatin opens locally to accelerates its motion and allow it to initiate repair via homologous recombination.
+
+[**Review 1**](https://www.sciencedirect.com/journal/physics-reports/vol/678/suppl/C)
+[**Review 2**](https://www.sciencedirect.com/science/article/abs/pii/S0168952519301271)
+
+[**Cell Reports**](https://www.sciencedirect.com/science/article/pii/S2211124717300542?via%3Dihub) and [**Nature Structural and Molecular Biology**](https://www.nature.com/articles/nsmb.3347)
+
+In those papers we describe a statistical method to estimate four parameters characterizing chromatin dynamics from Single Particle Trajectories (SPTs). 
 We provide here our Matlab code to study the time-lapse imaging of single loci by fluorescence microscopy. 
 The code can be applied to any trajectories of tagged DNA loci. 
 The code allows extracting four biophysical parameters from the movement. 
