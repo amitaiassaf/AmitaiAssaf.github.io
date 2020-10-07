@@ -16,6 +16,7 @@ The chromatin molecule resides in the nucleus of eukaryotes organisms. The princ
 Chromatin motion can be observed by fluorescently tagging sites and following them with high-speed microscopy to produce high-resolution trajectories. To decipher the principles governing the motion of chromatin, we developed methods combining polymer models and statistical inference to analyze these trajectories. We have shown, that following a double-stranded DNA breaks, chromatin structure and dynamics are modified to facilitate the repair of those breaks. We find that in general, the motion of chromatin is due to an ensemble of interactions of the molecule with its surroundings. Those interactions are being modified around the break during the repair process. As a result, chromatin opens locally to accelerates its motion and allow it to initiate repair via homologous recombination.
 
 [**Review 1**](https://www.sciencedirect.com/journal/physics-reports/vol/678/suppl/C)
+
 [**Review 2**](https://www.sciencedirect.com/science/article/abs/pii/S0168952519301271)
 
 [**Cell Reports**](https://www.sciencedirect.com/science/article/pii/S2211124717300542?via%3Dihub) and [**Nature Structural and Molecular Biology**](https://www.nature.com/articles/nsmb.3347)
