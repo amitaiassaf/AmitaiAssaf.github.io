@@ -56,6 +56,8 @@ HIV’s SD is about two orders of magnitude lower than that of other viruses, a 
 
 In a recent paper, we try to explain this riddle. By modeling antibody evolution through affinity maturation, we find that an intermediate SD maximizes the affinity of generated antibodies. We argue that this leads most viruses to evolve high SDs. T helper cells, which are depleted during early HIV infection, play a key role in antibody evolution. We find that T helper cell depletion results in high affinity antibodies when SD is high, but not if SD is low. This special feature of HIV infection may have led to the evolution of a low SD to avoid potent immune responses early in infection. 
 
+[**The low spike density of HIV**](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006408)
+
 You can find the affinity maturation code for simulation relevant for this paper here:
 
 [**Download code here**](https://github.com/amitaiassaf/Modeling-Germinal-Center-Reaction)
